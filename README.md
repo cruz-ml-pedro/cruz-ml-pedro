@@ -9,8 +9,12 @@ Já esteve em análise de séries temporais e em métodos de análise espctral.
 
 <div>
   <a href="https://github.com/cruz-ml-pedro">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=cruz-ml-pedro&show_icons=false&theme=tokyonight"/>
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cruz-ml-pedro&layout=compact&theme=tokyonight"/>
+  <img height = "140em"  src = "https://github-readme-stats.vercel.app/api?username=cruz-ml-pedro&show_icons=false&theme=tokyonight"/>
+  <img height = "140em"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cruz-ml-pedro&layout=compact&theme=tokyonight"/>
+</div>
+  
+<div>
+ <img align = "left" height = "400em" src = "https://github.com/cruz-ml-pedro/cruz-ml-pedro/blob/main/gapminder_gganimate.gif"/>
 </div>
 
 ### Let's get connected:
@@ -22,6 +26,6 @@ Já esteve em análise de séries temporais e em métodos de análise espctral.
 ### Tecnologies 
 
 <div>
-  <img alngn ="centeer" alt = "pimpinho-html" height = "30" widht = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
+  <img align ="center" alt = "pimpinho-html" height = "30" widht = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
 </div>
 
