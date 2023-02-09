@@ -13,7 +13,11 @@ dados e criação de modelos estatísticos e de machine learning.
 
 Experiência em análise de séries temporais e dados geoespacias.
 
+<div class="row" style="margin: auto;">
+
 <img src="README_files/figure-gfm/unnamed-chunk-1-1.gif" width="50%" style="display: block; margin: auto;" />
+
+</div>
 
 </br>
 
